@@ -1,0 +1,56 @@
+/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/generate_models.py:145: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/generate_models.py:145: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+Creating Sudoku board...
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/SudokuBoard.fbx'
+export finished in 0.0086 sec.
+Exported board to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/SudokuBoard.fbx
+Creating number tiles 1-9...
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_1.fbx'
+export finished in 0.0018 sec.
+Exported tile 1 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_1.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_2.fbx'
+export finished in 0.0019 sec.
+Exported tile 2 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_2.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_3.fbx'
+export finished in 0.0019 sec.
+Exported tile 3 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_3.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_4.fbx'
+export finished in 0.0014 sec.
+Exported tile 4 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_4.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_5.fbx'
+export finished in 0.0019 sec.
+Exported tile 5 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_5.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_6.fbx'
+export finished in 0.0020 sec.
+Exported tile 6 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_6.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_7.fbx'
+export finished in 0.0015 sec.
+Exported tile 7 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_7.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_8.fbx'
+export finished in 0.0019 sec.
+Exported tile 8 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_8.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_9.fbx'
+export finished in 0.0018 sec.
+Exported tile 9 to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/Tile_9.fbx
+
+FBX export starting... '/Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/CellHighlight.fbx'
+export finished in 0.0011 sec.
+Exported cell highlight to: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models/CellHighlight.fbx
+
+=== All models generated successfully! ===
+Output directory: /Users/aleksandrsmirnov/Documents/sudoku/Sudoku3D/Models
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:31:22)
+
+Blender quit
