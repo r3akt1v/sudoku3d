@@ -33,3 +33,4 @@ Thumbs.db
 # Crash reports
 sysinfo.txt
 *.stackdump
+Assets/_Recovery/
